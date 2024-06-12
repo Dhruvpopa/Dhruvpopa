@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi 
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
+## Bye
 
 <!--
 **Dhruvpopa/Dhruvpopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
